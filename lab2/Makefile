@@ -1,4 +1,4 @@
-CFLAGS=-Wall -lpthread
+CFLAGS = -Wall -lpthread
 
 
 clean:
